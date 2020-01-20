@@ -5,7 +5,7 @@ to maximize the objective value function value of various loans pools into order
 
 Over the course of this project, the following relevent questions were answered:
 
-      How do you remove unwanted columns from data from input text files?
+      How do you remove unwanted columns of data from input text files?
       How do you identify the latest transaction of a loan from transaction lists?
       How do you read a text file using the Scanner class?
       How do you merge files using a BufferedReader?
