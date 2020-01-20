@@ -1,6 +1,6 @@
 # FannieMae-LoanDataParser
 
-This code produces price-optimized mortgage-backed securities by parsing relevant loan data from text files. The objective is 
+This code compiles price-optimized mortgage-backed securities by parsing relevant loan data from text files. The objective is 
 to maximize the objective value function value of various loans pools into order to maximize the net profitability of each pool.
 
 Over the course of this project, the following relevent questions were answered:
