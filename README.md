@@ -1,7 +1,8 @@
 # FannieMae-LoanDataParser
 
-This code compiles price-optimized mortgage-backed securities by parsing relevant loan data from text files. The objective is 
-to maximize the objective value function value of various loans pools into order to maximize the net profitability of each pool.
+This code is a tool for compiling price-optimized mortgage-backed securities by parsing relevant loan data from text files. 
+
+When arranging a security, a central objective is to maximize the objective value function of various loans pools into order to maximize the net profitability of each pool. However, loans must meet a set of criteria before being selected as a candidate for a pool. Since loan transaction lists are far too large to parse manually, this code allows users to manipuate data in these expansive lists and extract any relevent data they are seeking. 
 
 Over the course of this project, the following relevent questions were answered:
 
@@ -13,5 +14,4 @@ Over the course of this project, the following relevent questions were answered:
       How do you organize criteria checking tools to avoid code redundancy?
       How do you truncate a String representation of a float?
       
-The current status of this implementation reduces transaction list sizes for certain pooling criteria to roughly 0.0285% of its
-original size.
+The current status of this implementation reduces transaction list sizes for certain pooling criteria by roughly 99.97%.
