@@ -1,4 +1,4 @@
-// THIS CODE PRODUCED LOANDATA.TXT
+// This code produces a LoanData.txt file containing information from a given acquisition file and performance file.
 
 import java.io.BufferedReader;
 import java.io.FileReader;
