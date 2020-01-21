@@ -5,8 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
 
-// Code that merges two data files into a single loan data file.
-// Written with (a lot of) help from GeeksforGeeks.
+// Code that merges two data files into a single loan data file. Adjust file names as needed.
 
 public class FileMerger {
 	
